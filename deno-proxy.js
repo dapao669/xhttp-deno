@@ -1,4 +1,4 @@
-const UPSTREAM_URL = 'https://xxx.deno.dev'; // 此处替换为deno项目地址
+const UPSTREAM_URL = 'https://dapao669-xhttp-deno-19.deno.dev'; // 此处替换为deno项目地址
 const UPSTREAM_HOSTNAME = new URL(UPSTREAM_URL).hostname;
 
 export default {
